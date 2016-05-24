@@ -1,0 +1,16 @@
+sms_settings:
+ username: mash
+ password: MashMcet
+ sendername: MASHIN
+ host_url: http://bhashsms.com/api/sendmsg.php
+ success_code: "success"
+
+parameter_mappings:
+ username: user
+ password: pass
+ sendername: sender
+ message: text
+ phone: phone
+
+# Additional parameters to be added should given in the format "param1=value1&param2=value2&..."
+additional_parameters: "priority=ndnd,stype=normal"
