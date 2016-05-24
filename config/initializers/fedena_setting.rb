@@ -1,6 +1,6 @@
 FEDENA_DEFAULTS = {
-  :company_name => 'Fedena',
-  :company_url  => 'http://www.projectfedena.org'
+  :company_name => 'MASH',
+  :company_url  => 'http://www.themash.in'
 }
 
 USER_SETTINGS = {}
