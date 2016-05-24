@@ -13,4 +13,4 @@ parameter_mappings:
  phone: phone
 
 # Additional parameters to be added should given in the format "param1=value1&param2=value2&..."
-additional_parameters: "priority=ndnd,stype=normal"
+additional_parameters: "priority=ndnd&stype=normal"
